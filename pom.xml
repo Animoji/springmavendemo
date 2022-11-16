@@ -21,7 +21,7 @@
     <hibernateVersion>5.3.7.Final</hibernateVersion>
     <mysqlVersion>8.0.13</mysqlVersion>
     <c3p0Version>0.9.5.4</c3p0Version>
-    <jsonVersion>2.9.7</jsonVersion>
+    <jsonVersion>2.12.7.1</jsonVersion>
     <fileuploadVersion>1.3.3</fileuploadVersion>
     <lombokVersion>1.18.2</lombokVersion>
   </properties>
